@@ -54,8 +54,8 @@ const users = {
     { name: "bob", password: "student456", progress: { lessons: [], quizzes: [], badges: [] } },
   ],
   teachers: [
-    { name: "mrjohnson", password: "teacher123" },
-    { name: "mswilliams", password: "teacher456" },
+    { name: "Ramesh", password: "teacher123" },
+    { name: "Lata", password: "teacher456" },
   ],
 };
 
